@@ -8,5 +8,8 @@ https://github.com/fakerybakery/ContactMe/issues/1.
 If you do not have a GitHub account, please create one or contact me through: https://www.mrfake.name/.
 For more information, please see the LICENSE file.
 
+
+Download ContactMe Now!
+
 ## More Information
 If you see any bugs, please do not hesitate to create an issue and/or create a pull request.
