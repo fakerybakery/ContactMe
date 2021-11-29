@@ -1,0 +1,13 @@
+{
+    "name": "mrfakename/contactme",
+    "description": "The BEST contact form EVER built on PHP!",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mrfakename",
+            "email": "me@mrfake.name"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
