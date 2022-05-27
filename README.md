@@ -12,7 +12,5 @@ Download ContactMe Now!
 
 ## More Information
 If you see any bugs, please do not hesitate to create an issue and/or create a pull request.
-## 2021-09-28: Composer Support!
-`composer require mrfakename/contactme`
 
 ©️ Copyright 2021 mrfakename. All rights reserved.
