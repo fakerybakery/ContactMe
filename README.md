@@ -1,3 +1,4 @@
+<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
 # ContactMe
 ContactMe is a simple PHP contact form made by mrfakename. With advanced spam protection built in, powered by a built-in system for preventing email spam and by @IQAndreas's [php-spam-filter](https://github.com/IQAndreas/php-spam-filter), ContactMe can effectively block spam from your inbox!
 
@@ -13,4 +14,4 @@ Download ContactMe Now!
 ## More Information
 If you see any bugs, please do not hesitate to create an issue and/or create a pull request.
 
-©️ Copyright 2021 mrfakename. All rights reserved.
+&copy; Copyright 2021 mrfakename. All rights reserved.
